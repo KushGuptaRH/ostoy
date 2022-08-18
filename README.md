@@ -1,7 +1,7 @@
 # OSToy
 ## v1.4.0
 
-A simple Node.js application that deploys to OpenShift. It is used to help
+Changed. A simple Node.js application that deploys to OpenShift. It is used to help
 explore the functionality of Kubernetes. This toy application has a user interface
 which you can:
 
